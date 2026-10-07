@@ -1,4 +1,4 @@
-# 📊 git add .Data Manipulation with NumPy & Pandas
+# 📊 Data Manipulation with NumPy & Pandas
 
 This directory contains my code implementations and notes on the core libraries for data manipulation and analysis in Python.
 
