@@ -10,13 +10,17 @@ This repository serves as a centralized log of my learning process. It contains 
 ## 🗂️ Table of Contents (Ongoing)
 Here is the track record of the topics I am currently covering or have completed so far:
 
-- **[01. Linear and Relational Algebra](./01_Linear_and_Relational_Algebra/)** *(In Progress)*
+- **[01. Linear and Relational Algebra](./01_Linear_and_Relational_Algebra/)** *(Completed)*
   - Mathematical foundations, Vectors, and Matrices using Python.
+- **[02. Python Basics](./02_Python_Basics/)** *(Completed)*
+  - Core programming concepts and data structures.
+- **[03. Data Manipulation (NumPy & Pandas)](./03_NumPy_and_Pandas/)** *(Completed)*
+  - N-dimensional arrays, Series, DataFrames, and exploratory data analysis.
 
 ## 🛠️ Tools & Technologies
 - **Language:** Python
-- **Environment:** Jupyter Notebook / VS Code
-- **Core Libraries:** NumPy (Expanding as I progress)
+- **Environment:** Jupyter Notebook / VS Code (WSL/Ubuntu)
+- **Core Libraries:** NumPy, Pandas (Expanding as I progress)
 
 ---
 *Building this portfolio one commit at a time.*
